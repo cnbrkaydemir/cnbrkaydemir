@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning git.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me canberkaydemir@yahoo.com
+- 📫 How to reach me canberk.aydemir@yahoo.com
 
 <!---
 cnbrkaydemir/cnbrkaydemir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
