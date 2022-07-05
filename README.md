@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cnbrkaydemir
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning git.
+- 🌱 I’m currently learning Spring.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me canberk.aydemir@yahoo.com
 
