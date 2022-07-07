@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @cnbrkaydemir
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Spring.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @cnbrkaydemir from Ted University
+- 👀 I’m interested in data science and backend design.
+- 🌱 I’m currently learning Spring framework and Angular.
 - 📫 How to reach me canberk.aydemir@yahoo.com
 
 <!---
