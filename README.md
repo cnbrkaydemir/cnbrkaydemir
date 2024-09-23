@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Canberk Aydemir</h1>
-<h3 align="center">Student at Ted University🌟.</h3>
+<h3 align="center">Computer Engineer🌟.</h3>
 
 <br>
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **canberk.aydemir@yahoo.com**
 
-- ⚡ Fun fact :- One day JS will be the goat.
+- ⚡ Fun fact :- The end is nigh for software developers.
 
 <br>
 
